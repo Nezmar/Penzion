@@ -63,6 +63,11 @@ section {
 	padding: var(--spacer-double) var(--spacer-bigger);
 }
 
+/*
+ **************************************
+	Univerzální 3 sloupcový grid
+ **************************************
+*/
 
 .grid {
 	display: grid;
